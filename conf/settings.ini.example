@@ -1,0 +1,7 @@
+[KEYS]
+# consumer api keys
+TWITTER_APP_KEY = abc
+TWITTER_APP_SECRET = abc
+# access token & secret
+TWITTER_KEY = abc
+TWITTER_SECRET = abc

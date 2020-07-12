@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# configs
+conf/settings.ini
+
+# scrape
+*.csv
