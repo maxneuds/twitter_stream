@@ -133,7 +133,6 @@ conf/settings.ini
 
 # graph
 *.gv
-*.gv.png
 
 # scrape
 *.csv
