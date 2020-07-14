@@ -22,3 +22,9 @@ TWITTER_APP_SECRET = abc
 TWITTER_KEY = abc
 TWITTER_SECRET = abc
 ```
+
+## data pipeline
+
+<img src="res/graph_pipeline.gv.png" alt="graph_pipeline" width="200"/>
+
+<!--![graph_pipeline](res/graph_pipeline.gv.png)

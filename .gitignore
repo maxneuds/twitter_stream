@@ -132,8 +132,8 @@ dmypy.json
 conf/settings.ini
 
 # graph
-.gv
-.gv.png
+*.gv
+*.gv.png
 
 # scrape
 *.csv
